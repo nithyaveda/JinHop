@@ -1,0 +1,152 @@
+{
+  "id": 27,
+  "world": 2,
+  "size": 7,
+  "par": 11,
+  "budgetSlack": 3,
+  "seed": 27016,
+  "frogs": [
+    {
+      "x": 5,
+      "y": 0,
+      "facing": "S"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "facing": "S"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "facing": "E"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "facing": "W",
+      "golden": true
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "facing": "S"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "facing": "S"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "facing": "E"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "facing": "N"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "facing": "E"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "facing": "W"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "facing": "E"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "facing": "N"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "facing": "W"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "facing": "W"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "facing": "S"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "facing": "E"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "facing": "N"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "facing": "E"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "facing": "E"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "facing": "E"
+    }
+  ],
+  "pads": [
+    {
+      "x": 2,
+      "y": 2,
+      "type": "rotator"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "type": "rotator"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "rotator"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "type": "rotator"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "type": "rotator"
+    }
+  ],
+  "snakes": [
+    {
+      "x": 6,
+      "y": 0
+    },
+    {
+      "x": 5,
+      "y": 1
+    },
+    {
+      "x": 1,
+      "y": 5
+    }
+  ]
+}

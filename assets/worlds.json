@@ -1,0 +1,34 @@
+{
+  "title": "The Last Jin Chan",
+  "intro": [
+    {"scene": "luck", "text": "Long ago, wherever the golden toad Jin Chan travelled, luck followed. Ponds sparkled, lotuses bloomed, and every frog knew the way home."},
+    {"scene": "storm", "text": "Then a great storm swept through. It drained the colour from every pond and scattered the frogs far from home."},
+    {"scene": "willow", "text": "“Only Jin Chan can bring the ponds back to life,” whispers Old Liu the willow. “Help each lost frog hop home, and the luck will flow again.”"},
+    {"scene": "forward", "text": "Every frog knows only one way: forward. Clear the path, then free Jin Chan."}
+  ],
+  "worlds": [
+    {
+      "id": 1,
+      "name": "Misty Pond",
+      "first": 1,
+      "last": 15,
+      "landmark": "Moon Bridge",
+      "beats": [
+        {"after": 5, "scene": "doudou", "text": "A little frog named Dou Dou stays behind. “I want to help Jin Chan!” it croaks. Ahead, the pond’s currents begin to swirl."}
+      ],
+      "end": {"scene": "moon_bridge", "text": "The mist lifts. The Moon Bridge glows again."}
+    },
+    {
+      "id": 2,
+      "name": "Lantern Marsh",
+      "first": 16,
+      "last": 30,
+      "landmark": "Lantern Shrine",
+      "start": {"scene": "marsh", "text": "Beyond the bridge lies the Lantern Marsh, dark and silent. Snakes sleep among the reeds. “Wake none,” warns Old Liu. “Kindness is quieter than courage.”"},
+      "beats": [
+        {"after": 23, "scene": "together", "text": "Dou Dou hops beside Jin Chan, whispering each frog’s name as it goes home. One by one, the marsh lanterns flicker."}
+      ],
+      "end": {"scene": "lantern_shrine", "text": "A thousand lanterns light the shrine. Another pond is waiting…"}
+    }
+  ]
+}

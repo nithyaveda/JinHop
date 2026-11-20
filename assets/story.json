@@ -1,0 +1,10 @@
+{
+  "title": "The Last Jin Chan",
+  "cards": {
+    "w1_start": "The last golden frog sleeps in a tangled pond. Its friends are stuck around it. Guide them home, one gentle hop at a time.",
+    "w1_end": "The mist lifts. The pond remembers how to breathe. But the golden frog’s luck is needed in the marsh beyond.",
+    "w2_start": "Lanterns flicker in the marsh. Snakes sleep here, so wake none. Turn the pads carefully, and every frog will find its way.",
+    "w2_end": "The last lantern glows. Nothing was hurt, nothing was rushed. Only patience was needed.",
+    "final": "The golden frog wakes. Wherever a pond is cared for, luck returns. The pond blooms."
+  }
+}
